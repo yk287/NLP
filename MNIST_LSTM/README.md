@@ -7,4 +7,6 @@ MNIST Digit prediction using LSTM, Pytorch
 
 ## Test Prediction
 
+Test prediction after 5 epochs.
+
 ![prediction](img/confusion_matrix.png)
