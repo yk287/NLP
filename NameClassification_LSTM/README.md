@@ -1,6 +1,8 @@
 
 # Name Classification Using Bi-Directional LSTM
 
+Based on Pytorch [tutorial](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+
 # Training Loss 
 
 ![plot](img/Train_Loss.png) 
