@@ -1,11 +1,11 @@
 
 # Name Classification Using Bi-Directional LSTM
 
-#Training Loss 
+# Training Loss 
 
 ![plot](img/Train_Loss.png) 
 
-#Confusion Matrix for the test data
+# Confusion Matrix for the test data
 
 Test Accuracy 0.83138
 
