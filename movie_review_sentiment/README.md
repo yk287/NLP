@@ -1,4 +1,4 @@
-# Fashion MNIST Classification
+# Movie Review Sentiment classification using Bi-directional LSTM
 
 # Training Loss 
 
