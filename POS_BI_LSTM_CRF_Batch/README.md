@@ -1,7 +1,7 @@
 
 # POS using Bi-LSTM with CRF 
 
-NER tagging using Bi-LSTM with batching.
+POS tagging using Bi-LSTM with batching.
 
 ## Training Loss
 
