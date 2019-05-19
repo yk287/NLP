@@ -1,12 +1,14 @@
 
-# POS using Bi-LSTM with CRF 
+# NER using Bi-LSTM with CRF 
 
-POS tagging using Bi-LSTM with batching.
+NER tagging using Bi-LSTM with batching.
 
 ## Training Loss
 
 ![train_loss](img/Train_Loss.png)
 
 ## Test Accuracy
-Accuracy : 0.9626432345272403
+
+Accuracy with only words: 0.8676181102362205
+Accuracy with other features: 0.9626432345272403
 
