@@ -10,5 +10,6 @@ NER tagging using Bi-LSTM with batching.
 ## Test Accuracy
 
 Accuracy with only words: 0.8676181102362205
+
 Accuracy with other features: 0.9626432345272403
 
